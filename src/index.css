@@ -1,0 +1,5 @@
+* {
+  box-sizing: border-box; /* Ensures padding and borders are included in the element's total width and height */
+  margin: 0;             /* Removes default browser margins */
+  padding: 0;            /* Removes default browser padding */
+}
